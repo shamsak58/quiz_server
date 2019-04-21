@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5cbb448845fb7ccea469e498"},"lng":132,"lat":552,"locationName":"testCity"}
+{"_id":{"$oid":"5cbb45a145fb7ccea469e4c8"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":111.22,"locationName":"toto"}
+{"_id":{"$oid":"5cbba75bb76ad93490fe7844"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":200.22,"locationName":"toto"}
+{"_id":{"$oid":"5cbbaf0fb76ad93c40c3b583"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":111.22,"locationName":"abc"}
+{"_id":{"$oid":"5cbbca36b76ad95a64e8be5c"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":2200.22,"locationName":"karachi"}
+{"_id":{"$oid":"5cbbd03ab76ad95e7814c31e"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":111.22,"locationName":"abc"}
+{"_id":{"$oid":"5cbbd0dfb76ad9660c64ea77"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":111.22,"locationName":"abc"}
+{"_id":{"$oid":"5cbbd40db76ad96870940838"},"_class":"com.spring.restapi.models.Location","lat":100.33,"lng":111.22,"locationName":"abc"}

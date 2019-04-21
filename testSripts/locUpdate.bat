@@ -1,0 +1,2 @@
+#
+curl -v --noproxy -X "PUT" -H "Content-Type:application/json" --data "{\"lat\": 100.33, \"lng\": 2200.22, \"locationName\" :\"karachi\"}"  "http://localhost:8080/locationUpdate/5cbbca36b76ad95a64e8be5c"
